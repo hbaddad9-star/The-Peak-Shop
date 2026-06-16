@@ -9,7 +9,8 @@
 
 ## 📱 App Overview
 
-**The Peak Shop** is a Flutter-based mobile application for an official Gymshark sportswear retailer based in Jordan. The app allows users to browse authentic Gymshark products, filter by category, search for items, and place orders directly via WhatsApp.
+**The Peak Shop**is a Flutter-based mobile shopping application for sportswear products inspired by modern athletic brands. The app allows users to browse products, filter by category, search for items, add items to the cart, and place orders directly via WhatsApp.
+
 
 ---
 
@@ -149,4 +150,4 @@ flutter run
 
 ---
 
-*Built with ❤️ using Flutter & Dart | The Peak Shop — Zarqa, Jordan*
+*Built with ❤️ using Flutter & Dart | The Peak Shop — AMMAN, Jordan*
